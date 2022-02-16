@@ -1,0 +1,10 @@
+Comandos git 
+
+git init
+git add .
+git commit -m ""
+git branch -M main
+git remote add origin (path)
+git push -u origin main
+
+git clone (path)
